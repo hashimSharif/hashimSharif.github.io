@@ -1,0 +1,10 @@
+{
+  "name": "Hashim Sharif",
+  "short_name": "Hashim Sharif",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

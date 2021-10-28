@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance optimization | Hashim Sharif</title>
+    <link>/tags/performance-optimization/</link>
+      <atom:link href="/tags/performance-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Performance optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Performance optimization</title>
+      <link>/tags/performance-optimization/</link>
+    </image>
+    
+    <item>
+      <title>ApproxHPVM: a portable compiler IR for accuracy-aware optimizations</title>
+      <link>/publication/10-1145-3314221-3314644/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/10-1145-3314221-3314644/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ApproxHPVM: a portable compiler IR for accuracy-aware optimizations</title>
+      <link>/publication/trimmer_journal/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/trimmer_journal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
