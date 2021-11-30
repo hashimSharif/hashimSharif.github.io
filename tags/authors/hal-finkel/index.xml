@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hal Finkel | Hashim Sharif</title>
+    <link>/authors/hal-finkel/</link>
+      <atom:link href="/authors/hal-finkel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hal Finkel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 19 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hal Finkel</title>
+      <link>/authors/hal-finkel/</link>
+    </image>
+    
+    <item>
+      <title>Developing an OpenMP Offloading Runtime for UVM-Capable GPUs</title>
+      <link>/publication/openmp/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/openmp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yasmin Sarita | Hashim Sharif</title>
+    <link>/authors/yasmin-sarita/</link>
+      <atom:link href="/authors/yasmin-sarita/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yasmin Sarita</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yasmin Sarita</title>
+      <link>/authors/yasmin-sarita/</link>
+    </image>
+    
+    <item>
+      <title>ApproxTuner: A Compiler and Runtime System for Adaptive Approximations.</title>
+      <link>/publication/approxtuner/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/approxtuner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ApproxTuner: A Compiler and Runtime System for Adaptive Approximations.</title>
+      <link>/publication/llvmdev/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/llvmdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ApproxHPVM: A Portable Compiler IR for Accuracy-aware Optimizations</title>
+      <link>/publication/approxhpvm/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/approxhpvm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

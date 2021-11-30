@@ -234,7 +234,7 @@
   <meta property="og:description" content="Postdoctoral Researcher"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-07-08T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2021-03-02T00:00:00&#43;00:00">
   
 
   
@@ -397,7 +397,87 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/#news" data-target="#news"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/#publications" data-target="#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience" data-target="#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -550,7 +630,7 @@
           
         
         <li>
-          <a href="https://twitter.com/hashim_sharif" target="_blank" rel="noopener">
+          <a href="https://twitter.com/evanzhao" target="_blank" rel="noopener">
             <i class="fab fa-twitter big-icon"></i>
           </a>
         </li>
@@ -568,7 +648,22 @@
         
         <li>
           <a href="https://gitlab.engr.illinois.edu/llvm" target="_blank" rel="noopener">
-            <i class="fab fa-gitlab big-icon"></i>
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/files/cv.pdf" >
+            <i class="ai ai-cv big-icon"></i>
           </a>
         </li>
         
@@ -581,22 +676,13 @@
     
     <h1>About me</h1>
 
-    <p>I am a postdoctoral researcher in  computer science at the 
-<a href="https://cs.illinois.edu/" target="_blank" rel="noopener">University of Illinois at Urbana-Champaign</a> working with 
+    <p>I am a postdoctoral researcher in the department of computer science at the 
+<a href="https://cs.illinois.edu/" target="_blank" rel="noopener">University of Illinois at Urbana-Champaign</a>, working with 
 <a href="https://vikram.cs.illinois.edu/" target="_blank" rel="noopener">Dr. Vikram Adve</a> and 
-<a href="http://misailo.web.engr.illinois.edu/" target="_blank" rel="noopener">Dr. Sasa Misailovic</a> in the 
-<a href="https://publish.illinois.edu/hpvm-project/" target="_blank" rel="noopener">HPVM group</a>. In April 2021, I completed my PhD from the CS department at the University of Illinois at Urbana-Champaign with my doctoral thesis work supervised by Dr. Vikram Adve.</p>
-<p>I work in the areas of <strong>compilers</strong> and <strong>program analysis</strong>.
-I build compiler and runtime systems for
-<strong>end-to-end accuracy-aware optimization</strong> of tensor-based programs.
-I work on techniques that improve the  energy-efficiency and performance
-of software programs by using accuracy-aware optimizations that trade off small amounts
-of computational accuracy in exchange for significant performance improvements.
-A major focus of my work is on developing
-easy-to-use <strong>systems for compute-efficient deep learning at the edge</strong>.
-My earlier work focuses on static analysis techniques for
-code size reduction via software specialization.</p>
-<p><b> I will be on the academic job market this Fall! Job materials will be added soon. </b></p>
+<a href="http://misailo.web.engr.illinois.edu/" target="_blank" rel="noopener">Dr. Sasa Misailovic</a>. My research focuses on building compiler infrastructure for approximate computing with the goal of improving application performance and energy-efficiency on resource-constrained edge systems. I take interest in developing abstractions, analyses, and techniques that enable the flexible use of approximate computing techniques with minimal user involvement.</p>
+<p>In April 2021, I completed my PhD working under the supervision of Dr. Vikram Adve
+in the 
+<a href="https://publish.illinois.edu/hpvm-project/" target="_blank" rel="noopener">HPVM group</a> at UIUC.</p>
 
 
     <div class="row">
@@ -608,11 +694,11 @@ code size reduction via software specialization.</p>
           
           <li>Compilers</li>
           
-          <li>Accuracy-aware Optimization</li>
+          <li>Approximate Computing</li>
           
-          <li>Systems for Machine Learning</li>
+          <li>Systems for ML</li>
           
-          <li>Program Analysis</li>
+          <li>Static Analysis</li>
           
         </ul>
       </div>
@@ -643,49 +729,186 @@ code size reduction via software specialization.</p>
       </div>
       
 
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="news" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Recent News</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/first-day-of-the-site/" >First Day of the Site</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Thanks for visiting.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
 
       
-      <div class="col-md-15">
-        <h3> <b> News </b> </h3>
-        <ul class="ul-interests">
-          
-          <li style = "font-size:1em"> <b> [September 2021] </b> PhD thesis available <a href="https://www.ideals.illinois.edu/handle/2142/110468">here</a>  </li>
-          
-          <li style = "font-size:1em"> <b> [July 2021] </b> Journal <a href="https://ieeexplore.ieee.org/document/9478582">version</a> of the TRIMMER ASE'18 paper accepted at TSE'21  </li>
-          
-          <li style = "font-size:1em"> <b> [April 2021] </b> Completed PhD program  </li>
-          
-          <li style = "font-size:1em"> <b> [April 2021] </b> Released HPVM v1.0 available <a href="https://gitlab.engr.illinois.edu/llvm/hpvm-release">here</a>  </li>
-          
-          <li style = "font-size:1em"> <b> [March 2021] </b> Presented ApproxTuner at PPoPP'21 (Virtual) - <a href="https://www.youtube.com/watch?v=T8jQauvbhIE">Video</a>  </li>
-          
-          <li style = "font-size:1em"> <b> [November 2020] </b> ApproxTuner <a href="http://misailo.cs.illinois.edu/papers/approxtuner.pdf">paper</a> accepted at PPoPP'21  </li>
-          
-          <li style = "font-size:1em"> <b> [October 2020] </b> Presented ApproxTuner at LLVM-Dev'20 - <a href="https://www.youtube.com/watch?v=03u65Jmwxk0">Video</a>  </li>
-          
-          <li style = "font-size:1em"> <b> [March 2020] </b> Passed PhD Preliminary Exam  </li>
-          
-          <li style = "font-size:1em"> <b> [January 2020] </b> Released HPVM v0.5 - a retargetable compiler for heterogeneous systems  </li>
-          
-          <li style = "font-size:1em"> <b> [October 2019] </b> ApproxHPVM  presented at OOPSLA'19  </li>
-          
-          <li style = "font-size:1em"> <b> [September 2019] </b> AppproxHPVM <a href="https://misailo.web.engr.illinois.edu/papers/ApproxHPVM-OOPSLA19.pdf">paper</a> accepted at OOPSLA'19  </li>
-          
-          <li style = "font-size:1em"> <b> [September 2018] </b> TRIMMER presented at ASE'18  </li>
-          
-          <li style = "font-size:1em"> <b> [July 2018] </b> TRIMMER <a href="http://www.csl.sri.com/users/gehani/papers/ASE-2018.Trimmer.pdf">paper</a> accepted at ASE'18  </li>
-          
-          <li style = "font-size:1em"> <b> [September 2017] </b> Presented OpenMP-UVM work in 2017 OpenMP Developers Conference  </li>
-          
-          <li style = "font-size:1em"> <b> [January 2016] </b> Joined the LLVM Group supervised by Dr. Vikram Adve  </li>
-          
-        </ul>
-      </div>
+
       
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
       
+    
+    Apr 24, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
 
       
     </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+
+    
+
   </div>
 </div>
 
@@ -810,7 +1033,7 @@ code size reduction via software specialization.</p>
     
 
   
-  <span><a href="/authors/uhashim-sharif/u/"><u><strong>Hashim Sharif</strong></u></a></span>, <span><a href="/authors/yifan-zhao/">Yifan Zhao</a></span>, <span><a href="/authors/maria-kotsifakou/">Maria Kotsifakou</a></span>, <span><a href="/authors/akash-kothari/">Akash Kothari</a></span>, <span><a href="/authors/ben-schreiber/">Ben Schreiber</a></span>, <span><a href="/authors/elizabeth-wang/">Elizabeth Wang</a></span>, <span><a href="/authors/yasmin-sarita/">Yasmin Sarita</a></span>, <span><a href="/authors/nathan-zhao/">Nathan Zhao</a></span>, <span><a href="/authors/keyur-joshi/">Keyur Joshi</a></span>, <span><a href="/authors/vikram-adve/">Vikram Adve</a></span>, <span><a href="/authors/sasa-misailovic/">Sasa Misailovic</a></span>, <span><a href="/authors/sarita-adve/">Sarita Adve</a></span>
+  <span><a href="/authors/hashim-sharif/"><strong>Hashim Sharif</strong></a></span>, <span><a href="/authors/yifan-zhao/">Yifan Zhao</a></span>, <span><a href="/authors/maria-kotsifakou/">Maria Kotsifakou</a></span>, <span><a href="/authors/akash-kothari/">Akash Kothari</a></span>, <span><a href="/authors/ben-schreiber/">Ben Schreiber</a></span>, <span><a href="/authors/elizabeth-wang/">Elizabeth Wang</a></span>, <span><a href="/authors/yasmin-sarita/">Yasmin Sarita</a></span>, <span><a href="/authors/nathan-zhao/">Nathan Zhao</a></span>, <span><a href="/authors/keyur-joshi/">Keyur Joshi</a></span>, <span><a href="/authors/vikram-s.-adve/">Vikram S. Adve</a></span>, <span><a href="/authors/sasa-misailovic/">Sasa Misailovic</a></span>, <span><a href="/authors/sarita-adve/">Sarita Adve</a></span>
   </div>
   
   
@@ -852,7 +1075,7 @@ code size reduction via software specialization.</p>
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/approxtuner/">ApproxTuner: A Compiler and Runtime System for Adaptive Approximations.</a>
+    <a href="/publication/10-1145-3437801-3446108/">ApproxTuner: a compiler and runtime system for adaptive approximations.</a>
   </h3>
 
   
@@ -881,7 +1104,7 @@ code size reduction via software specialization.</p>
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/approxtuner/cite.bib">
+        data-filename="/publication/10-1145-3437801-3446108/cite.bib">
   Cite
 </button>
 
@@ -940,7 +1163,7 @@ code size reduction via software specialization.</p>
     
 
   
-  <span><a href="/authors/uhashim-sharif/u/"><u><strong>Hashim Sharif</strong></u></a></span>, <span><a href="/authors/prakalp-srivastava/">Prakalp Srivastava</a></span>, <span><a href="/authors/muhammad-huzaifa/">Muhammad Huzaifa</a></span>, <span><a href="/authors/maria-kotsifakou/">Maria Kotsifakou</a></span>, <span><a href="/authors/keyur-joshi/">Keyur Joshi</a></span>, <span><a href="/authors/yasmin-sarita/">Yasmin Sarita</a></span>, <span><a href="/authors/nathan-zhao/">Nathan Zhao</a></span>, <span><a href="/authors/vikram-adve/">Vikram Adve</a></span>, <span><a href="/authors/sasa-misailovic/">Sasa Misailovic</a></span>, <span><a href="/authors/sarita-adve/">Sarita Adve</a></span>
+  <span><a href="/authors/hashim-sharif/"><strong>Hashim Sharif</strong></a></span>, <span><a href="/authors/prakalp-srivastava/">Prakalp Srivastava</a></span>, <span><a href="/authors/muhammad-huzaifa/">Muhammad Huzaifa</a></span>, <span><a href="/authors/maria-kotsifakou/">Maria Kotsifakou</a></span>, <span><a href="/authors/keyur-joshi/">Keyur Joshi</a></span>, <span><a href="/authors/yasmin-sarita/">Yasmin Sarita</a></span>, <span><a href="/authors/nathan-zhao/">Nathan Zhao</a></span>, <span><a href="/authors/vikram-adve/">Vikram Adve</a></span>, <span><a href="/authors/sasa-misailovic/">Sasa Misailovic</a></span>, <span><a href="/authors/sarita-adve/">Sarita Adve</a></span>
   </div>
   
   
@@ -982,7 +1205,7 @@ code size reduction via software specialization.</p>
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/approxhpvm/">ApproxHPVM: A Portable Compiler IR for Accuracy-aware Optimizations</a>
+    <a href="/publication/10-1145-3314221-3314644/">ApproxHPVM: a portable compiler IR for accuracy-aware optimizations</a>
   </h3>
 
   
@@ -1011,7 +1234,7 @@ code size reduction via software specialization.</p>
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/approxhpvm/cite.bib">
+        data-filename="/publication/10-1145-3314221-3314644/cite.bib">
   Cite
 </button>
 
@@ -1028,136 +1251,6 @@ code size reduction via software specialization.</p>
 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://dl.acm.org/doi/10.1145/3360612" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span><a href="/authors/uhashim-sharif/u/"><u><strong>Hashim Sharif</strong></u></a></span>, <span><a href="/authors/muhammad-abubakar/">Muhammad Abubakar</a></span>, <span><a href="/authors/ashish-gehani/">Ashish Gehani</a></span>, <span><a href="/authors/fareed-zaffar/">Fareed Zaffar</a></span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    September 2018
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering <strong>(ASE 2018)</strong>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/trimmer-ase/">TRIMMER: Application Specialization for Code Debloating.</a>
-  </h3>
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.csl.sri.com/users/gehani/papers/ASE-2018.Trimmer.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/trimmer-ase/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3238147.3238160" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1297,7 +1390,7 @@ code size reduction via software specialization.</p>
     
 
   
-  <span><a href="/authors/aatira-anum-ahmed/">Aatira Anum Ahmed</a></span>, <span><a href="/authors/abdul-rafae-noor/">Abdul Rafae Noor</a></span>, <span><a href="/authors/uhashim-sharif/u/"><u><strong>Hashim Sharif</strong></u></a></span>, <span><a href="/authors/usama-hameed/">Usama Hameed</a></span>, <span><a href="/authors/shoaib-asif/">Shoaib Asif</a></span>, <span><a href="/authors/mubashir-anwar/">Mubashir Anwar</a></span>, <span><a href="/authors/ashish-gehani/">Ashish Gehani</a></span>, <span><a href="/authors/fareed-zaffar/">Fareed Zaffar</a></span>, <span><a href="/authors/junaid-haroon-siddiqui/">Junaid Haroon Siddiqui</a></span>
+  <span><a href="/authors/hashim-sharif/"><strong>Hashim Sharif</strong></a></span>, <span><a href="/authors/prakalp-srivastava/">Prakalp Srivastava</a></span>, <span><a href="/authors/muhammad-huzaifa/">Muhammad Huzaifa</a></span>, <span><a href="/authors/maria-kotsifakou/">Maria Kotsifakou</a></span>, <span><a href="/authors/keyur-joshi/">Keyur Joshi</a></span>, <span><a href="/authors/yasmin-sarita/">Yasmin Sarita</a></span>, <span><a href="/authors/nathan-zhao/">Nathan Zhao</a></span>, <span><a href="/authors/vikram-adve/">Vikram Adve</a></span>, <span><a href="/authors/sasa-misailovic/">Sasa Misailovic</a></span>, <span><a href="/authors/sarita-adve/">Sarita Adve</a></span>
   </div>
   
   
@@ -1308,7 +1401,7 @@ code size reduction via software specialization.</p>
     
       
     
-    July 2021
+    October 2019
   </span>
   
 
@@ -1316,7 +1409,7 @@ code size reduction via software specialization.</p>
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      IEEE Transactions on Software Engineering <strong>(TSE 2021)</strong>
+      Proceedings of the ACM on Programming Languages <strong>(OOPSLA'19)</strong>
     
   </span>
   
@@ -1339,7 +1432,7 @@ code size reduction via software specialization.</p>
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/trimmer_journal/">TRIMMER: An Automated System for Configuration-based Software Debloating</a>
+    <a href="/publication/trimmer_journal/">ApproxHPVM: a portable compiler IR for accuracy-aware optimizations</a>
   </h3>
 
   
@@ -1361,7 +1454,7 @@ code size reduction via software specialization.</p>
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/document/9478582" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://misailo.cs.illinois.edu/papers/ApproxHPVM-OOPSLA19.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1383,6 +1476,10 @@ code size reduction via software specialization.</p>
 
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://dl.acm.org/doi/10.1145/3360612" target="_blank" rel="noopener">
+  DOI
+</a>
 
 
 
@@ -1432,427 +1529,173 @@ code size reduction via software specialization.</p>
   
   
 
-  <section id="workshop_publications" class="home-section wg-pages   "  >
+  <section id="experience" class="home-section wg-experience   "  >
     <div class="container">
       
 
 
 
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Workshop Papers and Presentations</h1>
+    <h1>Experience</h1>
     
   </div>
   <div class="col-12 col-lg-8">
-
     
 
     
+    
+    
+    <div class="row experience">
       
-        
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span><a href="/authors/uhashim-sharif/u/"><u><strong>Hashim Sharif</strong></u></a></span>, <span><a href="/authors/yifan-zhao/">Yifan Zhao</a></span>, <span><a href="/authors/maria-kotsifakou/">Maria Kotsifakou</a></span>, <span><a href="/authors/akash-kothari/">Akash Kothari</a></span>, <span><a href="/authors/ben-schreiber/">Ben Schreiber</a></span>, <span><a href="/authors/elizabeth-wang/">Elizabeth Wang</a></span>, <span><a href="/authors/yasmin-sarita/">Yasmin Sarita</a></span>, <span><a href="/authors/nathan-zhao/">Nathan Zhao</a></span>, <span><a href="/authors/keyur-joshi/">Keyur Joshi</a></span>, <span><a href="/authors/vikram-adve/">Vikram Adve</a></span>, <span><a href="/authors/sasa-misailovic/">Sasa Misailovic</a></span>, <span><a href="/authors/sarita-adve/">Sarita Adve</a></span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col ">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border exp-fill">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
       
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Ph.D. student</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="illinois.edu" target="_blank" rel="noopener">University of Illinois at Urbana-Champaign</a></h4>
+            <div class="text-muted exp-meta">
+              Aug 2019 –
+              
+                Present
+              
+              
+                <span class="middot-divider"></span>
+                <span>Champaign, IL</span>
+              
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
     
-    October 2020
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      <strong>LLVM Developers Conference (LLVMDev 2020)</strong>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/llvmdev/">ApproxTuner: A Compiler and Runtime System for Adaptive Approximations.</a>
-  </h3>
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
+    <div class="row experience">
       
-    
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border ">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
       
-        
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="card-simple">
-
-  
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Assistant</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="umich.edu" target="_blank" rel="noopener">University of Michigan</a></h4>
+            <div class="text-muted exp-meta">
+              May 2018 –
+              
+                Aug 2018
+              
+              
+                <span class="middot-divider"></span>
+                <span>Ann Arbor, MI</span>
+              
+            </div>
+            <div class="card-text">Advised by <a href="https://web.eecs.umich.edu/~barisk/">Prof. Baris Kasikci</a>, co-authored with
+<a href="https://web.eecs.umich.edu/~takh/">Tanvir Ahmed Khan</a>.</div>
+          </div>
+        </div>
+      </div>
+    </div>
     
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span><a href="/authors/uhashim-sharif/u/"><u><strong>Hashim Sharif</strong></u></a></span>, <span><a href="/authors/vikram-adve/">Vikram Adve</a></span>, <span><a href="/authors/hal-finkel/">Hal Finkel</a></span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
+    <div class="row experience">
       
-    
-    September 2017
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      <strong>OpenMP Developers Conference (OpenMPCon 2017)</strong>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/openmp/">Developing an OpenMP Offloading Runtime for UVM-Capable GPUs</a>
-  </h3>
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border ">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
       
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Undergraduate</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="umich.edu" target="_blank" rel="noopener">University of Michigan</a></h4>
+            <div class="text-muted exp-meta">
+              Aug 2017 –
+              
+                May 2019
+              
+              
+                <span class="middot-divider"></span>
+                <span>Ann Arbor, MI</span>
+              
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
     
+    <div class="row experience">
       
-        
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-  
-  <span><a href="/authors/manolis-stamatogiannakis/">Manolis Stamatogiannakis</a></span>, <span><a href="/authors/hasanat-kazmi/">Hasanat Kazmi</a></span>, <span><a href="/authors/uhashim-sharif/u/"><u><strong>Hashim Sharif</strong></u></a></span>, <span><a href="/authors/remco-vermeulen/">Remco Vermeulen</a></span>, <span><a href="/authors/ashish-gehani/">Ashish Gehani</a></span>, <span><a href="/authors/herbert-bos/">Herbert Bos</a></span>, <span><a href="/authors/paul-groth/">Paul Groth</a></span>
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border ">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col ">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
       
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Undergraduate</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="http://en.sjtu.edu.cn/" target="_blank" rel="noopener">Shanghai Jiao Tong University</a></h4>
+            <div class="text-muted exp-meta">
+              Sep 2015 –
+              
+                Aug 2019
+              
+              
+                <span class="middot-divider"></span>
+                <span>Shanghai, China</span>
+              
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
     
-    June 2016
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
     
-      <strong>International Provenance and Annotation Workshop (IPAW 2016)</strong>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/tradeoffs/">Tradeoffs in Automatic Provenance Capture</a>
-  </h3>
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://research.vu.nl/ws/portalfiles/portal/1526419" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/tradeoffs/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-319-40593-3_3" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-
-    
-
   </div>
 </div>
 
@@ -1993,7 +1836,9 @@ code size reduction via software specialization.</p>
     
   </p>
 
-
+  <p class="outref">
+    <a href="https://blog.evzh.net" target="_blank" rel="noopener"> Alternative reality. </a>
+  </p>
 </footer>
 
   </div>

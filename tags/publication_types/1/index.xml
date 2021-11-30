@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Hashim Sharif</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>ApproxTuner: A Compiler and Runtime System for Adaptive Approximations.</title>
+      <link>/publication/approxtuner/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/approxtuner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ApproxHPVM: A Portable Compiler IR for Accuracy-aware Optimizations</title>
+      <link>/publication/approxhpvm/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/approxhpvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRIMMER: Application Specialization for Code Debloating.</title>
+      <link>/publication/trimmer-ase/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/trimmer-ase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
