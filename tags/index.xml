@@ -1,16 +1,120 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Hashim Sharif</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <title>Hashim Sharif</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hashim Sharif</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Tags</title>
-      <link>/tags/</link>
+      <title>Hashim Sharif</title>
+      <link>/</link>
     </image>
+    
+    <item>
+      <title>ApproxHPVM: A Retargetable Compiler Framework for Accuracy-aware Optimizations</title>
+      <link>/publication/phd_thesis/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/phd_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRIMMER: An Automated System for Configuration-based Software Debloating</title>
+      <link>/publication/trimmer_journal/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/trimmer_journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/first-day-of-the-site/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/post/first-day-of-the-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ApproxTuner: A Compiler and Runtime System for Adaptive Approximations.</title>
+      <link>/publication/approxtuner/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/approxtuner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ApproxTuner: A Compiler and Runtime System for Adaptive Approximations (Oral)</title>
+      <link>/publication/llvmdev/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/llvmdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEW: Presented ApproxTuner at PPoPP&#39;21 (Virtual). Video (here).</title>
+      <link>/post/second-day/</link>
+      <pubDate>Fri, 24 Apr 2020 03:13:50 -0500</pubDate>
+      <guid>/post/second-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ApproxHPVM: A Portable Compiler IR for Accuracy-aware Optimizations</title>
+      <link>/publication/approxhpvm/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/approxhpvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRIMMER: Application Specialization for Code Debloating.</title>
+      <link>/publication/trimmer-ase/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/trimmer-ase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenMP Offloading Runtime for UVM-Capable GPUs (Oral)</title>
+      <link>/publication/llvmhpc/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/llvmhpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing an OpenMP Offloading Runtime for UVM-Capable GPUs (Oral)</title>
+      <link>/publication/openmp/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/openmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tradeoffs in Automatic Provenance Capture</title>
+      <link>/publication/tradeoffs/</link>
+      <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tradeoffs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Classification Based Framework to Predict Viral Threads</title>
+      <link>/publication/viralthreads/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/viralthreads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Adverse Drug Reactions Using a Sentiment Classification Framework</title>
+      <link>/publication/sentimentanalysis/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/sentimentanalysis/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

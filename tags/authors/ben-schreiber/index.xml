@@ -5,7 +5,7 @@
     <link>/authors/ben-schreiber/</link>
       <atom:link href="/authors/ben-schreiber/index.xml" rel="self" type="application/rss+xml" />
     <description>Ben Schreiber</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ben Schreiber</title>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>ApproxTuner: A Compiler and Runtime System for Adaptive Approximations.</title>
+      <title>ApproxTuner: A Compiler and Runtime System for Adaptive Approximations (Oral)</title>
       <link>/publication/llvmdev/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       <guid>/publication/llvmdev/</guid>
