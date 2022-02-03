@@ -5,12 +5,20 @@
     <link>/authors/hal-finkel/</link>
       <atom:link href="/authors/hal-finkel/index.xml" rel="self" type="application/rss+xml" />
     <description>Hal Finkel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 19 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 03 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Hal Finkel</title>
       <link>/authors/hal-finkel/</link>
     </image>
+    
+    <item>
+      <title>OpenMP Offloading Runtime for UVM-Capable GPUs (Oral)</title>
+      <link>/publication/llvmhpc/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/llvmhpc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Developing an OpenMP Offloading Runtime for UVM-Capable GPUs (Oral)</title>

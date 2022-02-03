@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/publication_types/4/</loc>
+    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/phd_thesis/</loc>
+    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication_types/2/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,13 +35,7 @@
     <loc>/tags/compilers/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/fareed-zaffar/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/junaid-haroon-siddiqui/</loc>
@@ -39,9 +48,6 @@
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/program-analysis/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/shoaib-asif/</loc>
@@ -146,10 +152,16 @@
     <loc>/publication/trimmer-ase/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/hal-finkel/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/llvmhpc/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/openmp/</loc>
     <lastmod>2017-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/hal-finkel/</loc>
+    <loc>/authors/lingda-li/</loc>
     <lastmod>2017-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/hasanat-kazmi/</loc>
@@ -169,6 +181,36 @@
   </url><url>
     <loc>/publication/tradeoffs/</loc>
     <lastmod>2016-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/5/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/viralthreads/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ahmed-abbasi/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/hasnain-lakhani/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mohammad-taha-khan/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/muhammad-ali-gulzar/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/saad-ismail/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/shehroze-farooqi/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/david-zimbra/</loc>
+    <lastmod>2014-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/sentimentanalysis/</loc>
+    <lastmod>2014-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
   </url><url>

@@ -5,7 +5,7 @@
     <link>/authors/vikram-adve/</link>
       <atom:link href="/authors/vikram-adve/index.xml" rel="self" type="application/rss+xml" />
     <description>Vikram Adve</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Vikram Adve</title>
@@ -33,6 +33,14 @@
       <link>/publication/approxhpvm/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/publication/approxhpvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenMP Offloading Runtime for UVM-Capable GPUs (Oral)</title>
+      <link>/publication/llvmhpc/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/llvmhpc/</guid>
       <description></description>
     </item>
     

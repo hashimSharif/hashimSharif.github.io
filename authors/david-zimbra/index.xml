@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Zimbra | Hashim Sharif</title>
+    <link>/authors/david-zimbra/</link>
+      <atom:link href="/authors/david-zimbra/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Zimbra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Mon, 16 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>David Zimbra</title>
+      <link>/authors/david-zimbra/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Adverse Drug Reactions Using a Sentiment Classification Framework</title>
+      <link>/publication/sentimentanalysis/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/sentimentanalysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Hashim Sharif</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Hashim Sharif</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>ApproxHPVM: A Retargetable Compiler Framework for Accuracy-aware Optimizations</title>
+      <link>/publication/phd_thesis/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/phd_thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TRIMMER: An Automated System for Configuration-based Software Debloating</title>
@@ -69,6 +77,14 @@
     </item>
     
     <item>
+      <title>OpenMP Offloading Runtime for UVM-Capable GPUs (Oral)</title>
+      <link>/publication/llvmhpc/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/llvmhpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Developing an OpenMP Offloading Runtime for UVM-Capable GPUs (Oral)</title>
       <link>/publication/openmp/</link>
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
@@ -81,6 +97,22 @@
       <link>/publication/tradeoffs/</link>
       <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
       <guid>/publication/tradeoffs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Classification Based Framework to Predict Viral Threads</title>
+      <link>/publication/viralthreads/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/viralthreads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Adverse Drug Reactions Using a Sentiment Classification Framework</title>
+      <link>/publication/sentimentanalysis/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/sentimentanalysis/</guid>
       <description></description>
     </item>
     
