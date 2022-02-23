@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vatsin Ninad Shah | Hashim Sharif</title>
+    <link>/authors/vatsin-ninad-shah/</link>
+      <atom:link href="/authors/vatsin-ninad-shah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vatsin Ninad Shah</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Vatsin Ninad Shah</title>
+      <link>/authors/vatsin-ninad-shah/</link>
+    </image>
+    
+    <item>
+      <title>ApproxCaliper: Optimizing Neural Networks for Task-specific Goals</title>
+      <link>/publication/approxcaliper/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/approxcaliper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

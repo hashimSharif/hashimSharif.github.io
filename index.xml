@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Hashim Sharif</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Hashim Sharif</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>ApproxCaliper: Optimizing Neural Networks for Task-specific Goals</title>
+      <link>/publication/approxcaliper/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/approxcaliper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ApproxHPVM: A Retargetable Compiler Framework for Accuracy-aware Optimizations</title>
