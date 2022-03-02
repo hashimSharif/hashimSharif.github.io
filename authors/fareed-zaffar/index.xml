@@ -5,12 +5,20 @@
     <link>/authors/fareed-zaffar/</link>
       <atom:link href="/authors/fareed-zaffar/index.xml" rel="self" type="application/rss+xml" />
     <description>Fareed Zaffar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Fareed Zaffar</title>
       <link>/authors/fareed-zaffar/</link>
     </image>
+    
+    <item>
+      <title>TRIMMER: An Automated System for Configuration-based Software Debloating</title>
+      <link>/publication/trimmer_journal/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/trimmer_journal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TRIMMER: Application Specialization for Code Debloating</title>
